@@ -16,7 +16,7 @@ var person = "John Doe";
 
 //Insert Function Here
 function functionName(parameters) {
-  code to be executed
+ // code to be executed
 }
 
 //Insert Methods
